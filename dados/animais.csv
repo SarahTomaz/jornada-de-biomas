@@ -1,0 +1,6 @@
+bioma;descricaoBioma;animal;tipo;agitacao;ataque1;dano1;ataque2;dano2;ataque3;dano3;sprite;cenario
+Floresta;Uma mata fechada, úmida e cheia de sons.;Onça-pintada;MAMIFERO;60;Rugido;3;Bote de aviso;5;Salto das Sombras;10;onca;floresta
+Deserto;Dunas quentes onde nada se move sem fazer barulho.;Escorpião;ARACNIDEO;70;Estalo das Garras;3;Cauda em Alerta;5;Nuvem de Areia;11;escorpiao;deserto
+Montanha;Picos altos com ventos fortes e céu aberto.;Águia;AVE;80;Grito Agudo;4;Rasante;6;Mergulho Veloz;12;aguia;montanha
+Pântano;Águas escuras e paradas, cheias de raízes.;Jacaré;REPTIL;95;Batida de Cauda;4;Abre-Bocão;7;Emboscada na Água;13;jacare;pantano
+Gelo;Uma planície branca onde o frio pesa no peito.;Urso-polar;MAMIFERO;115;Rugido Gelado;5;Investida Gelada;8;Pose Gigante;15;urso;gelo
